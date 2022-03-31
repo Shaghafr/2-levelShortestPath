@@ -1,0 +1,18 @@
+Suppose we build a village with LEGO.
+In this village, we have a completely straight river from north to south with a width of 4 LEGOs.
+There are also a number of shops and houses, each about the size of a LEGO.
+
+The houses are all on the left side of the river and the shops are all on the right side of the river.
+Both sides of the river are roads on which people can move from north to south or vice versa.
+Several bridges and several ports have been built on the river. People can cross the river by bridge or by boat.
+Note that the direction of the bridge and the direction of the boats are completely across the river and straight from east to west or vice versa.
+Every villager has two ways to go to the shop. Go by bike to the bridge and cross the bridge and then go to the shop or walk to the port and cross the river by boat and then walk to the shop.
+Pedestrians complete each LEGO in 2 seconds. By bike or boat, each LEGO travels in one second.
+Assuming that the number of boats is so large that no one is suspended, we want to get the shortest distance from the houses to each shop.
+Present your best suggested solution.
+Assume that the northernmost LEGO is number one.
+The LEGOs are numbered from north to south.
+In the input of the question, first the number of houses and then the LEGO number of each house are given.
+Then the number of shops and the LEGO number of the shops are given. Then the number of bridges and the LEGO number of the bridges are given.
+Finally, the number of ports and the LEGO number of the ports are given.
+At the output for each house, we specify the minimum time interval to each shop.
